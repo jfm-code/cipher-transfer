@@ -1,0 +1,34 @@
+UA
+ua@securedrop.org
+uAishere123&
+
+UB
+ub@securedrop.org
+uBishere123&
+
+UC
+uc@securedrop.org
+uCishere123&
+
+Test scenarios:
+1. Register three new users UA, UB and UC
+
+2. Login
+- login as user UB on client CA using correct credentials
+- login as user UA on client CA using an empty password
+- login as user UA on client CA using correct credentials, same for UB, UC
+
+3. Add contact
+- for UA add UB, UD, UE
+- for UB, add UA, UB, UC
+- for UC, add UB
+
+4. List contact for UA, UB, UC
+- UA display only UB
+- UB display only UA, UC
+- UC display only UC
+
+5. Send file
+- send from UA to UD
+- send from UA to UC
+- send from UA to UB (only this happen)

@@ -1,0 +1,56 @@
+[
+    {
+        "fullname": "UA",
+        "email": "ua@securedrop.org",
+        "IP": "172.18.69.219",
+        "port": 80,
+        "salt": "Nfo1qM.@o9vFid1=wND0",
+        "password": "465dce73c801420f123f4121e91a6436b4e0de766cff434aa6b4933118026e61",
+        "contacts": [
+            {
+                "contact_name": "qfcjMLCSBTEXxx9ZTv2jLgqqq2kMbu75UZ/SHvF1PWOHJA==",
+                "contact_email": "q99krSOIClm3G+xuiXSJ5tVIP1oKtfb9SWsCpt2LBFypz7zxXOt8PsMRun0nhjYQAg=="
+            },
+            {
+                "contact_name": "pIS9A7qQcMaRMg7UbU/9y78YmAPU8dYI+mOxaPCrpCMKlw==",
+                "contact_email": "sY2uB+JBpZJkzsr7wpcCAKKZIWcx+WJTfXy612jxdhSrF1DCknrZ1nSRixF7hZIXOA=="
+            },
+            {
+                "contact_name": "UCeqKj3F6VyS+z1R97PChhGgSdrpYLpBQghyYywzr9EzjA==",
+                "contact_email": "p3p4jAZDK3x6KXypzTnsIDhKm3qKPCBG7fXfVMqjoryJZn0sBdr4kvKyG9+AGjrgDA=="
+            }
+        ]
+    },
+    {
+        "fullname": "UB",
+        "email": "ub@securedrop.org",
+        "IP": "127.0.0.1",
+        "port": 25,
+        "salt": "*0)yt|7&6y}@4^<9&&Mo",
+        "password": "d0b9bc2d76d4f7cdab7515a9db0e60c10853f812bace9ed1d11aef2306418033",
+        "contacts": [
+            {
+                "contact_name": "X5b2/XawwBe6PFcvgwR9Z47TWP0GfZoemYAjA9KGCmss7A==",
+                "contact_email": "PtN7BNlfHKfI76++A2FzLK6cdCZKgXATk4iol25Vta1Rb9Y8zAVT/Qlb3QUwE6jR/g=="
+            },
+            {
+                "contact_name": "bYMS5EJ1Wsx4llGF5yDXki2zredYnESJrTTZxbcgqfFCIA==",
+                "contact_email": "nT/oAaZmbUME/Cv8yE+akrLpSKkNV6OHtJp8DpAStX+lpg5/AZfRR47I/FDemSFpSg=="
+            }
+        ]
+    },
+    {
+        "fullname": "UC",
+        "email": "uc@securedrop.org",
+        "IP": "127.0.0.1",
+        "port": 22,
+        "salt": "Vuof2o9t.Cp>j!0$F!(^",
+        "password": "ae7bdea93d367e2a1c00d73cb48b6435a8a97dcaed54c655733e816a2961abe4",
+        "contacts": [
+            {
+                "contact_name": "RMxXlr8PMto2bgWxMFE7QdpgnNpKfAtXajijsDLh2unq7w==",
+                "contact_email": "zs33q8Rq2mmq866bsGy57oMOQi5VGm8mDD5e47E7WA9PR/bAZi+KffSwyZ4okK1Bww=="
+            }
+        ]
+    }
+]
